@@ -1,0 +1,7 @@
+Magazine: name: = foobar Number = 1 Year = 2012
+Magazine: name: = foo Number = 9 Year = 2013
+Magazine: name: = What Number = 8 Year = 2014
+Magazine: name: = Untitled Number = 1 Year = 2015
+Magazine: name: = NIM Number = 5 Year = 2015
+Magazine: name: = NIM Number = 6 Year = 2015
+Magazine: name: = bar Number = 3 Year = 2015
